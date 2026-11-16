@@ -1,0 +1,3 @@
+Name: Rama Sharma
+Bio: QA Automation Engineer passionate about test automation, modern web frameworks, and continuous software quality assurance.
+
